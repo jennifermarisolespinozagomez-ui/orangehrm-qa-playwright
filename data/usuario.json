@@ -1,0 +1,15 @@
+{
+  "descripcion": "Credenciales del usuario Admin por defecto de la demo y datos del usuario nuevo que la automatizacion crea en Admin > User Management.",
+  "admin": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "usuarioNuevo": {
+    "rol": "Admin",
+    "estado": "Enabled",
+    "empleadoAsociado": "a",
+    "username": "jespinoza_qa",
+    "password": "Qa#Viamatica2026",
+    "confirmPassword": "Qa#Viamatica2026"
+  }
+}

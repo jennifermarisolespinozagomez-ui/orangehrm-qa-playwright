@@ -1,0 +1,30 @@
+{
+  "descripcion": "Datos del empleado que se crea en PIM y luego se edita con todos los campos.",
+  "nombres": {
+    "firstName": "Jenniffer",
+    "middleName": "Alexandra",
+    "lastName": "Espinoza"
+  },
+  "imagen": "assets/empleado.png",
+  "detallesPersonales": {
+    "otherId": "EMP-2026-001",
+    "driversLicense": "LIC-0962743",
+    "nationality": "Ecuadorean",
+    "maritalStatus": "Single",
+    "fechaNacimiento": "1995-20-05",
+    "genero": "Female"
+  },
+  "contacto": {
+    "street1": "Av. Francisco de Orellana",
+    "street2": "Edificio Blue Towers",
+    "city": "Guayaquil",
+    "state": "Guayas",
+    "zip": "090150",
+    "pais": "Ecuador",
+    "homePhone": "042345678",
+    "mobile": "0962743806",
+    "workPhone": "042876543",
+    "workEmail": "bchea@viamatica.com",
+    "otherEmail": "jenniffer.espinoza@gmail.com"
+  }
+}

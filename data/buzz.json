@@ -1,0 +1,8 @@
+{
+  "descripcion": "Datos para el flujo de Buzz Newsfeed: publicacion de video y comentario.",
+  "videoPost": {
+    "texto": "Comparto un video sobre automatizacion de pruebas con Playwright.",
+    "videoUrl": "https://youtu.be/dghyElh4EFw"
+  },
+  "comentario": "Muy buena publicacion, gracias por compartir."
+}

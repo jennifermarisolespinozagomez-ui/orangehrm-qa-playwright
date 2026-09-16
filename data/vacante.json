@@ -1,0 +1,10 @@
+{
+  "descripcion": "Datos de la vacante que se crea en Recruitment > Vacancies.",
+  "vacancyName": "QA Automation Engineer 2026",
+  "jobTitle": "QA Engineer",
+  "hiringManager": "a",
+  "numberOfPositions": "2",
+  "description": "Responsable de disenar y ejecutar pruebas automatizadas con Playwright para los productos de la empresa.",
+  "active": true,
+  "publishInRss": true
+}

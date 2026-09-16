@@ -1,0 +1,12 @@
+{
+  "descripcion": "Datos del candidato que se crea en Recruitment > Candidates.",
+  "firstName": "Jenniffer",
+  "middleName": "Alexandra",
+  "lastName": "Espinoza",
+  "email": "bchea@viamatica.com",
+  "contactNumber": "0962743806",
+  "hojaDeVida": "assets/hoja-de-vida.pdf",
+  "keywords": "QA, Playwright, Automatizacion",
+  "notes": "Candidata con experiencia en automatizacion de pruebas.",
+  "consentToKeepData": true
+}
